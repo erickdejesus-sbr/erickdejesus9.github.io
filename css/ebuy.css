@@ -1,0 +1,29 @@
+/* default.css */
+
+body {
+width: 1000px;
+font-family: Arial;
+}
+
+div#Contact1  {
+padding-left: 843px;
+background-color: green;
+}
+
+div#Links  {
+width: 100%;
+clear: both;
+}
+
+div#Footer  {
+width: 100%;
+background-color: green;
+font-color: white;
+margin-bottom: 10px;
+clear: both;
+}
+
+div#Silver  {
+width: 100%;
+background-color: silver;
+}

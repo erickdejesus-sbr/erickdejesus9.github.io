@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<!-- OurCustomer5.xml -->
+<?xml-stylesheet type="text/css" href="css/Customers.css"?>
+<List>
+	<Customer>
+		<Fullname>
+			<Firstname>John</Firstname>
+			<Lastname>Wilson</Lastname>
+		</Fullname>
+		<Address>5378 Golden Rise Glen</Address>
+		<City>Tuntutulia</City>
+		<State>Kentucky</State>
+		<Zipcode>41373</Zipcode>
+		<Email>jwilson@gmail.com</Email>
+	</Customer>
+	<Customer>
+		<Fullname>
+			<Firstname>Ross</Firstname>
+			<Lastname>Mclaughlin</Lastname>
+		</Fullname>
+		<Address>2257 Quiet Beacon Abbey</Address>
+		<City>Deadfall Crossroads</City>
+		<State>Wyoming</State>
+		<Zipcode>82890</Zipcode>
+		<Email>rmclaughlin@gmail.com</Email>
+	</Customer>
+	<Customer>
+		<Fullname>
+			<Firstname>Theodore</Firstname>
+			<Lastname>Wallace</Lastname>
+		</Fullname>
+		<Address>1454 Quaking Leaf Wood</Address>
+		<City>Wagontire</City>
+		<State>Kentucky</State>
+		<Zipcode>42173</Zipcode>
+		<Email>twallace@gmail.com</Email>
+	</Customer>
+	<Customer>
+		<Fullname>
+			<Firstname>Joel</Firstname>
+			<Lastname>Vega</Lastname>
+		</Fullname>
+		<Address>4480 Amber Lake Street</Address>
+		<City>Winstor</City>
+		<State>North Dakota</State>
+		<Zipcode>58221</Zipcode>
+		<Email>jvega@gmail.com</Email>
+	</Customer>
+	<Customer>
+		<Fullname>
+			<Firstname>Cheryl</Firstname>
+			<Lastname>Bowen</Lastname>
+		</Fullname>
+		<Address>922 Heather Townline</Address>
+		<City>Coronach</City>
+		<State>Idaho</State>
+		<Zipcode>83404</Zipcode>
+		<Email>cbowen@gmail.com</Email>
+	</Customer>
+</List>
+	

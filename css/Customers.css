@@ -1,0 +1,63 @@
+/*Customers.css*/
+
+List
+{
+	width:5000px;
+	font-family: Arial, sans-serif;
+	display:block;
+}
+
+Customer
+{
+	display:block;
+}
+
+Fullname
+{
+	margin-top: 10pt;
+	border: solid 1px #000000;
+	display:block;
+	background-color: #55803B;
+	width:5000px;
+	color: white;
+}
+
+Firstname
+{
+	margin-left: 7pt;
+}
+
+Lastname
+{
+}
+
+Address
+{
+	display:block;
+	margin-left: 50pt;
+}
+
+City
+{
+	display:block;
+	margin-left: 50pt;
+}
+
+State
+{
+	display:block;
+	margin-left: 50pt;
+}
+
+Zipcode
+{
+	display:block;
+	margin-left: 50pt;
+}
+
+Email
+{
+	display:block;
+	margin-left: 50pt;
+}
+
